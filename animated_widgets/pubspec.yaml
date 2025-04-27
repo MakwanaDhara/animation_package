@@ -1,7 +1,8 @@
 name: animated_widgets
 description: "A simple Flutter animation package."
-version: 0.0.1
-homepage: https://yourwebsite.com
+version: 1.1.0
+homepage: https://github.com/MakwanaDhara/animation_package.git
+repository: https://github.com/MakwanaDhara/animation_package.git
 
 environment:
   sdk: ^3.7.2
